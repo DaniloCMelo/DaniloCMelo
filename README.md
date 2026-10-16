@@ -1,15 +1,22 @@
 # Danilo Carneiro de Melo
 
-**Proprietário da Kloovi e da Brascot.**
+**Fundador e proprietário da Kloovi e da Brascot.**
 
-Sou Danilo Carneiro de Melo. Este é meu perfil público no GitHub, onde apresento minha relação com a Kloovi e a Brascot.
+Sou Danilo Carneiro de Melo, fundador da Kloovi e da Brascot. Este é meu perfil público no GitHub, com informações sobre as duas marcas e links para seus sites oficiais.
 
-## Kloovi e Brascot
+## Kloovi
 
-| Marca | Minha relação |
-| --- | --- |
-| Kloovi | Proprietário |
-| Brascot | Proprietário |
+A Kloovi tem como proposta conectar consumidores, negócios locais e entregadores, reunindo restaurantes, mercados e outras categorias para facilitar a rotina.
+
+- **Minha relação:** fundador e proprietário.
+- **Site oficial:** [kloovi.com.br](https://kloovi.com.br)
+
+## Brascot
+
+A Brascot desenvolve soluções digitais para empresas, incluindo aplicativos white-label, sites profissionais, sistemas personalizados e plataformas digitais.
+
+- **Minha relação:** fundador e proprietário.
+- **Site oficial:** [brascot.com](https://brascot.com)
 
 ## Perfil
 
@@ -18,4 +25,4 @@ Sou Danilo Carneiro de Melo. Este é meu perfil público no GitHub, onde apresen
 
 ---
 
-**English:** Danilo Carneiro de Melo is the owner of Kloovi and Brascot.
+**English:** Danilo Carneiro de Melo is the founder and owner of Kloovi and Brascot. Official websites: [Kloovi](https://kloovi.com.br) and [Brascot](https://brascot.com).
